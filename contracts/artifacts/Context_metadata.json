@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.0+commit.c7dfd78e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/ArtDecoNFT-Flatten.sol": "Context"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/ArtDecoNFT-Flatten.sol": {
+			"keccak256": "0x474fa82e8862e62ac492e3087eaf7ea765f6a126e85e617fe033af17b660f50e",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://ec37088ac32cb42b6251e38dcce1aae4d7c160630dd3ede2dda2b268fdb0efb5",
+				"dweb:/ipfs/QmRQPDLgmGHdEXqm2zXUBpwznm7cminQBsoiPxiGZiBxMY"
+			]
+		}
+	},
+	"version": 1
+}
