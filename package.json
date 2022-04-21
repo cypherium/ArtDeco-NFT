@@ -1,0 +1,14 @@
+{
+  "name": "ArtDecoNFTs-SmartContract",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "repository": "https://github.com/ArtDecoNFTs/ArtDecoNFTs-SmartContract.git",
+  "author": "Literally Collective <51626000+lemoncrypto@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.6",
+    "dotenv": "^16.0.0",
+    "fs": "0.0.1-security",
+    "openzeppelin-solidity": "^4.5.0"
+  }
+}
